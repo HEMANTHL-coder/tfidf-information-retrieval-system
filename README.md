@@ -85,3 +85,5 @@ Rank 2 | Score: 0.4903 | Doc 2: Machine learning is a field of artificial intell
 ## 🚀 TF-IDF Search Engine UI
 Screenshot 2026-03-31 105405.png
 Screenshot 2026-03-31 105424.png
+## 🌐 Live Demo
+[Click here to open the app](https://tfidf-information-retrieval-system-iltmyzjfwxqgbvsqruktfh.streamlit.app)
