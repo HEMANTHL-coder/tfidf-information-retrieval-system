@@ -87,3 +87,4 @@ Screenshot 2026-03-31 105405.png
 Screenshot 2026-03-31 105424.png
 ## 🌐 Live Demo
 [Click here to open the app](https://tfidf-information-retrieval-system-iltmyzjfwxqgbvsqruktfh.streamlit.app)
+https://tfidf-information-retrieval-system-iitmyzjfwxqgbvsqruktfh.streamlit.app/
