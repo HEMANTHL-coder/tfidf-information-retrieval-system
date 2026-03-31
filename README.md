@@ -82,3 +82,6 @@ Rank 2 | Score: 0.4903 | Doc 2: Machine learning is a field of artificial intell
 <img width="849" height="835" alt="Screenshot 2026-03-31 105424" src="https://github.com/user-attachments/assets/114a6726-05ff-467d-a10f-4ed5826ac13d" />
 ## 📸 Project Demo
 ![TF-IDF UI](screenshot.png)
+
+Screenshot 2026-03-31 105405.png
+Screenshot 2026-03-31 105424.png
