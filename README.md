@@ -80,6 +80,7 @@ Rank 2 | Score: 0.4903 | Doc 2: Machine learning is a field of artificial intell
 *(The UI behaves comparably, showcasing yellow text highlighters cleanly onto exact matching words found over the query.)*
 <img width="829" height="740" alt="Screenshot 2026-03-31 105405" src="https://github.com/user-attachments/assets/a5c00a7d-512e-4944-8d26-9cc810f1c8f5" />
 <img width="849" height="835" alt="Screenshot 2026-03-31 105424" src="https://github.com/user-attachments/assets/114a6726-05ff-467d-a10f-4ed5826ac13d" />
+### 🔗 project deployment 
 ## 📸 Project Demo
 ![TF-IDF UI](screenshot.png)
 ## 🚀 TF-IDF Search Engine UI
