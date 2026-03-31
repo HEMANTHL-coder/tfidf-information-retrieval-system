@@ -75,5 +75,10 @@ Processed Query Tokens: ['machine', 'learning']
 ========================================
 Rank 1 | Score: 0.5369 | Doc 5: Artificial intelligence and machine learning are revolutionizing technology.
 Rank 2 | Score: 0.4903 | Doc 2: Machine learning is a field of artificial intelligence.
-```
+```<img width="865" height="758" alt="Screenshot 2026-03-31 105341" src="https://github.com/user-attachments/assets/bd3de1a6-6240-4659-8867-3d5f8568de8b" />
+
 *(The UI behaves comparably, showcasing yellow text highlighters cleanly onto exact matching words found over the query.)*
+<img width="829" height="740" alt="Screenshot 2026-03-31 105405" src="https://github.com/user-attachments/assets/a5c00a7d-512e-4944-8d26-9cc810f1c8f5" />
+<img width="849" height="835" alt="Screenshot 2026-03-31 105424" src="https://github.com/user-attachments/assets/114a6726-05ff-467d-a10f-4ed5826ac13d" />
+## 📸 Project Demo
+![TF-IDF UI](screenshot.png)
